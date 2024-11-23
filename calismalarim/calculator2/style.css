@@ -1,0 +1,11 @@
+body {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  background-color: antiquewhite;
+}
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
