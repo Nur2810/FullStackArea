@@ -1,0 +1,23 @@
+#sec {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 1000px;
+  flex-direction: column;
+}
+#lbl {
+  font-size: 500px;
+  font-family: "Times New Roman", Times, serif;
+}
+.btn {
+  font-size: 100px;
+  margin: 30px;
+  padding: 25px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+}
+.btn:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.12);
+  background-color: darkcyan;
+  color: beige;
+}
