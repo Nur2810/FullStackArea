@@ -1,0 +1,32 @@
+.resimSlider {
+  height: 600px;
+}
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+}
+.hakkimizda {
+  background-color: #f2f2f2;
+}
+.ayrac {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+.ibeyaz {
+  color: #343a40;
+  position: relative;
+  top: -50px;
+  font-size: 40px;
+  border: 10px solid white;
+  background-color: white;
+}
+.igri {
+  color: #343a40;
+  position: relative;
+  top: -50px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
