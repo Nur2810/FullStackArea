@@ -30,3 +30,12 @@ body {
   border: 10px solid #f2f2f2;
   background-color: #f2f2f2;
 }
+.ekipcard > img:hover {
+  opacity: 0.8;
+}
+.galeri {
+  background-color: #f2f2f2;
+}
+.figure:hover {
+  opacity: 0.8;
+}
